@@ -7,7 +7,7 @@ migration : the project use EF code first to migrat you need to run Update-datab
 
 API's Return : all apise retun 200 -successfully 400 - BadRequest 500 -InternalServerError
 
-ther is 3 services named ServiceA, ServiceB, and ServiceC.
+Ther are 3 services named ServiceA, ServiceB, and ServiceC.
 
 ● ServiceA saves a message with a random number to a MSSQL database.
 
