@@ -1,0 +1,17 @@
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Service.deps.json
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Service.dll
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Service.pdb
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Model.dll
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Repository.dll
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Repository.pdb
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\bin\Debug\net6.0\Model.pdb
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.dll
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\refint\Service.dll
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\Service.pdb
+C:\MessageProcessingSystem\MessageProcessingSystem\Service\obj\Debug\net6.0\ref\Service.dll
